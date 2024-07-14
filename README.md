@@ -1,5 +1,12 @@
 ## Hi there 👋
+My name is eugenio flores vazquez, im a energy engineering student , on the last year of the career and im also a web developer .
+My first goal is to finish university and graduate without any inconvenient meanwhile launch a freelancer career on web development.
 
+Im currently workin on creating a portfolio with all my projects so i can show them off to any potential employer or partner.
+
+Im currently learning about databases and how to use them properly.
+
+Im lookink to collaborate with other people on any porject, every piece of experience is usefull and i wont let it go to waste.
 <!--
 **EugenFl24/EugenFl24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
